@@ -1,5 +1,5 @@
 #import <Flutter/Flutter.h>
-#import <ePOS2.h>
+#import "ePOS2.h"
 
 @interface FlutterEscPosPlugin : NSObject<FlutterPlugin, Epos2DiscoveryDelegate, Epos2PtrReceiveDelegate>
 
