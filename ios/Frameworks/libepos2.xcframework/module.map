@@ -1,0 +1,4 @@
+module ePOS2 {
+  header "ios-arm64_armv7/Headers/ePOS2.h"
+  export *
+}
